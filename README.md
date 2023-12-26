@@ -1,4 +1,4 @@
-<hr> Weathe App
+# Weathe App
 Weather App that allows users to search for a city, after clicking on city it will lead to another screen that will show the current tempreture, icon etc of that city. 
 Used 2 Api websites http://gd.geobytes.com/AutoCompleteCity?q=Zoc&callback=? for cities and https://openweathermap.org/current for current tempreture using an API key. 
 
